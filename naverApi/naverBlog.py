@@ -4,8 +4,8 @@ import urllib.request
 import json
 import numpy as np
 import pandas as pd
-client_id = "u3k3cwi0Us5G4eEihXAK"
-client_secret = "40G6XWbyoy"
+client_id = ""
+client_secret = ""
 encText = urllib.parse.quote("짜장면")
 url = f"https://openapi.naver.com/v1/search/blog?query={encText}&display=1&start=1&sort=date" # JSON 결과
 # url = "https://openapi.naver.com/v1/search/blog.xml?query=" + encText # XML 결과
