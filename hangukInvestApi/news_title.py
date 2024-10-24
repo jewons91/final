@@ -3,9 +3,9 @@ import json
 import numpy as np
 import pandas as pd
 
-APP_KEY = "PSrbq88Esne4tZ3xDS3PutsAHxAgXwZvLXtf"
-APP_SECRET = "AnjXzmz+xz2RX+af/HJ6O5OmOknDW/FcEOcya1Xd53xppa/X303L2P4u+s3CgviQ+oImayLhkELTHo2FcNbmuxARgCqBnoxiU47Nut4qDfDUeH1Ps0fnP9g+thecbadLB7bNHgY55mkoLxLSsjudlmnXv/4s4Pnpij7CfB28ZbasD9yQuNI="
-ACCESS_TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ0b2tlbiIsImF1ZCI6IjhmZGRhYWU2LTZjYTAtNGY2Yi05MmExLWNiNDM4MDkzMzBmYyIsInByZHRfY2QiOiIiLCJpc3MiOiJ1bm9ndyIsImV4cCI6MTcyMTIwNDUwMywiaWF0IjoxNzIxMTE4MTAzLCJqdGkiOiJQU3JicTg4RXNuZTR0WjN4RFMzUHV0c0FIeEFnWHdadkxYdGYifQ.Fj-zPJV2skcjThJov6egc5egtQNdm9Gyu5WMpQEb7I77WQUVDTJuFcceGdcITJortcK4UXkDnBIc_jgZY3mJfw"
+APP_KEY = ""
+APP_SECRET = ""
+ACCESS_TOKEN = ""
 URL_BASE = "https://openapi.koreainvestment.com:9443" #실전투자
 
 # 주식현재가 시세
